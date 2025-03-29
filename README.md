@@ -14,7 +14,7 @@
     <img height="170em"width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalvzMK1&layout=compact&langs_count=7&theme=dark"/>
   </div>
   
-  ![My Skills](https://skillicons.dev/icons?i=ts,nodejs,cs,nginx,azure,mysql,nestjs)
+  ![My Skills](https://skillicons.dev/icons?i=ts,nodejs,cs,azure,mysql,nestjs,kotlin,python)
   <hr>
 
   <div align="center">
