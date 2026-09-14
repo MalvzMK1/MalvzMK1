@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🚀 Software Engineer | Desenvolvedor Backend Pleno
+### 🚀 Software Engineer | Backend Developer
 
 Focused on building high-performance scalable systems, distributed architectures, and efficient data pipelines.
 
